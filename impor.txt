@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Vdinamicos{
+  public static void main(String args[]){
+
+
+  int longitud = 0;
+  Scanner entrada = new Scanner(Sistem.in);
+  
+  System.out.print("
+
+
+
+
+
+}
+
+
+}
