@@ -15,9 +15,9 @@ public Wellcome(){
 setLayout(null);
 setTitle("hello motherfucker");
 getContentPane().setBackground(new Color(30, 30, 30));
-setIconImage(new ImageIcon("C:/Users/Alys/Desktop/java/logo2.png").getImage());
+setIconImage(new ImageIcon("C:/Users/Alys/Desktop/java/logo1.png").getImage());
 
-ImageIcon imagen = new ImageIcon("C:/Users/Alys/Desktop/java/logo2.png");
+ImageIcon imagen = new ImageIcon("C:/Users/Alys/Desktop/java/logo1.png");
 label1 = new JLabel(imagen);
 label1.setBounds(0,0,600,150);
 add(label1);
